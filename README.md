@@ -89,7 +89,8 @@ react-vite-calculator/
 
 ```
 Example:
-![React Calculator Screenshot](./public/screenshot.png)
+![Calculator Screenshot](./public/screenshot.png)
+
 
 ```
 
