@@ -83,9 +83,8 @@ react-vite-calculator/
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshot
 
-*Add an image once your calculator is ready!*
 
 
 ![React Calculator Screenshot](./public/screenshot.png)
